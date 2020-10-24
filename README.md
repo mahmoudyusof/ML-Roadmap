@@ -25,3 +25,25 @@ There are two pathes in my opinion to study machine learning, the first is the a
 - [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) (Specialization)
 
 - [Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) (Specializaiton)
+
+## Theroitical
+
+ - [Linear Algebra Giblert's Course](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
+ - [MIT Probability](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8) OR [Harvard STAT110](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+ - [Mathematics For Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning)
+ - Mathematics For Machine Leaning (Book)
+ - Mathematical Statistics and Data Analysis By John Rice (Book)
+ - [Mathematics For Data Science Specilization, Note: Very Boring specilization](https://www.coursera.org/specializations/mathematics-for-data-science)
+ - [MIT Statstics](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+ - [Convex Optimization](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
+
+#### Advanced Level
+ - The Elements of Statistical Learning (Book)
+ - Machine Learning: A Probabilistic Perspective By Murphy (Book)
+ - [Stanford Machine Learning Course] (https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+ - [Stanford Deep Learning Course] (https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+ 
+## More practical resources, can be an alternative or support to some of the courses above.
+
+- [Machine Learning Specialization Washighnton](https://www.coursera.org/specializations/machine-learning?)
+- [Datacamp learning platform](https://learn.datacamp.com/)
