@@ -19,6 +19,8 @@ There are two pathes in my opinion to study machine learning, the first is the a
 
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) (Specialization)
 
+- [Tensorflow Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) (Specialization)
+
 #### Advanced topics
 - [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) (Specialization)
 
