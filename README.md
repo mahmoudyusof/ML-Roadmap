@@ -36,12 +36,13 @@ There are two pathes in my opinion to study machine learning, the first is the a
  - [Mathematics For Data Science Specilization, Note: Very Boring specilization](https://www.coursera.org/specializations/mathematics-for-data-science)
  - [MIT Statstics](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
  - [Convex Optimization](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
+ - [CS50'S Intro To AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python?fbclid=IwAR2IdvAk3XLMlVK0N_tGezwl-GHRaTW8zWsGKPfEGZM1BwcOAWZqX8AJUd4)
 
 #### Advanced Level
  - The Elements of Statistical Learning (Book)
  - Machine Learning: A Probabilistic Perspective By Murphy (Book)
- - [Stanford Machine Learning Course] (https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
- - [Stanford Deep Learning Course] (https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+ - [Stanford Machine Learning Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+ - [Stanford Deep Learning Course](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
  
 ## More practical resources, can be an alternative or support to some of the courses above.
 
